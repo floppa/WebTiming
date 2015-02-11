@@ -5,7 +5,7 @@ Check Navigation Timing API from the terminal through selenium &amp; chromedrive
 
 - Python
 - Selenium ```pip install selenium```
-- ChromeDriver ```brew install cromedriver```
+- ChromeDriver ```brew install chromedriver```
 
 ## Usage
 
