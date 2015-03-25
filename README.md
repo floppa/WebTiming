@@ -9,9 +9,9 @@ Check Navigation Timing API from the terminal through selenium &amp; chromedrive
 
 ## Usage
 
-- Get single value ```./web_timings.py -u=http://domain.url```
+- Get single value ```./web_timings.py -u http://domain.url -v responseTime```
+- Get all values ```./web_timings.py -u http://domain.url```
 - Get values multiple sites ```./web_timings.py -u=http://domain.url, http://domain.url```
-- Get all values ```./web_timings.py -u=http://domain.url -v=responseTime```
 - Get details ```./web_timings.py -u=http://domain.url -d=true```
 - Get output as csv ```./web_timings.py -u=http://domain.url -c=true```
 
